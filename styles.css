@@ -1,0 +1,14 @@
+/*-- Additional custom styles --*/
+/* Add any additional CSS rules below                      */
+
+/* Change bullets */
+ul > li::marker {
+  font-size: 1.125em;
+  color: #085e10;
+}
+
+/* Change link appearance */
+d-article a {
+  border-bottom: 2px solid #085e10;
+  text-decoration: none;
+}
