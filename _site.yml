@@ -11,5 +11,4 @@ navbar:
       href: about.html
 output: 
   distill::distill_article:
-    toc: true
     css: mytheme1.css
