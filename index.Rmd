@@ -1,7 +1,7 @@
 ---
-title: "Curso R - MF"
+title: "pcmfR - 2021"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Curso de R aplicado ao Melhoramento Florestal - IPEF 2021
 site: distill::distill_website
 ---
 
