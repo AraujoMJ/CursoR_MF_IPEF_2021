@@ -1,0 +1,12 @@
+name: "R_MF"
+title: "Curso R - MF"
+description: |
+  Curso R - MF
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
