@@ -1,7 +1,7 @@
 name: "R_MF"
-title: "Curso R - MF"
+title: "pcmfR - 2021"
 description: |
-  Curso R - MF
+  Curso de R aplicado ao Melhoramento Florestal - IPEF 2021
 output_dir: "docs"
 navbar:
   right:
