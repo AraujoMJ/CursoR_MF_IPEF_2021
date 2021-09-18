@@ -2,19 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Sobre este site",
+      "description": "Em construção",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-18T16:47:32-03:00"
+      "last_modified": "2021-09-18T17:22:41-03:00"
     },
     {
       "path": "index.html",
-      "title": "Curso R - MF",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "pcmfR - 2021",
+      "description": "Curso de R aplicado ao Melhoramento Florestal - IPEF 2021\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-18T16:47:33-03:00"
+      "last_modified": "2021-09-18T17:22:21-03:00"
     }
   ],
   "collections": []
